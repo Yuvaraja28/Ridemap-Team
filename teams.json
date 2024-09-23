@@ -1,0 +1,77 @@
+{
+  "show": true,
+  "team": [
+    {
+      "name": "Yuvaraja",
+      "role": "App Developer",
+      "avatar": "https://avatars.githubusercontent.com/u/64340067?v=4",
+      "socials": [
+        {
+          "icon": "web",
+          "link": "https://www.yuvaraja.tech/"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yuvaraja28"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yuvaraja-murali/"
+        }
+      ]
+    },
+    {
+      "name": "Praveen",
+      "role": "Backend Developer",
+      "avatar": "https://avatars.githubusercontent.com/u/65100038?v=5",
+      "socials": [
+        {
+          "icon": "web",
+          "link": "https://abipravi.vercel.app/"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pravee42"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/praveen-kumar-9b09441b7/"
+        }
+      ]
+    },
+    {
+      "name": "Sathish",
+      "role": "Backend Developer",
+      "avatar": "https://www.sathishzus.me/images/sathishzus.jpeg",
+      "socials": [
+        {
+          "icon": "web",
+          "link": "https://www.sathishzus.me/"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sathishzuss"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sathishzus"
+        }
+      ]
+    },
+    {
+      "name": "Nivetha",
+      "role": "UIUX Designer",
+      "avatar": "https://avatars.githubusercontent.com/u/64340067?v=4",
+      "socials": [
+        {
+          "icon": "web",
+          "link": "https://www.yuvaraja.tech/"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yuvaraja-murali/"
+        }
+      ]
+    }
+  ]
+}
